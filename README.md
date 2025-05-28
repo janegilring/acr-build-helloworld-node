@@ -56,6 +56,8 @@ Although intended for use with the companion articles, you can perform the follo
 <!-- LINKS - External -->
 [build-quick]: https://docs.microsoft.com/azure/container-registry/container-registry-tutorial-quick-build
 [build-task]: https://docs.microsoft.com/azure/container-registry/container-registry-tutorial-build-task
+
+Test
 [build-base]: https://docs.microsoft.com/azure/container-registry/container-registry-tutorial-base-image-update
 [multi-step]: https://docs.microsoft.com/azure/container-registry/container-registry-tutorial-multistep-task
 [docs]: http://docs.microsoft.com
